@@ -1,0 +1,49 @@
+Distribution,x86,x86-64,arm,ia64,ppc[116],ppc64,sparc32,sparc64,hppa[117],loongson,mips[118],sh,s390,s390x,alpha[119],m68k[120],riscv
+Alpine Linux,,,,,,,,,,,,,,,,,
+Arch Linux,Unofficial[121] Official discontinued 2017-11-08[122],,Unofficial[123],,Discontinued unofficial port,,,,,Discontinued. Unofficial port[124],,,,,,,
+BackTrack,Discontinued from BackTrack 5 and superseded by Kali Linux[125],Discontinued from BackTrack 5 and superseded by Kali Linux,Discontinued from BackTrack 5 and superseded by Kali Linux,,,,,,,,,,,,,,
+BLAG,,,,,,,,,,,,,,,,,
+Bodhi Linux,,,Discontinued 2013-10-23[126],,,,,,,,,,,,,,
+BOSS Linux,,,,,,,,,,,,,,,,,
+CentOS,AltArch,,AltArch,Discontinued 3.5-3.8 4.1-4.7[127],"Beta, Discontinued 4.0",AltArch,Beta 4.2[127][128],,,,,,Discontinued 3.5-3.8 4.1-4.7[127][129],Discontinued 3.5-3.8 4.1-4.7[127][129],Discontinued 4.2-4.3[127][130][131],,
+Chakra,,,,,,,,,,,,,,,,,
+CRUX,,,,,,,,,,,,,,,,,
+Debian[132],,Yes 4.0+,Yes 2.2+,Discontinued 3.0-7.0[133],Discontinued 2.2-8,,Discontinued 2.1-4.0[134],Discontinued -7[135],Discontinued 3.0-5.0,,Yes 3.0+,In progress,Discontinued 3.0-7,Yes 7+,Discontinued 2.1-5.0,Discontinued 2.0-3.1,In progress[136]
+Devuan,,,,,,,,,,,,,,,,,
+Dragora GNU/Linux-Libre,,,,,,,,,,,,,,,,,
+dyne:bolic,,,,,,,,,,,,,,,,,
+Fedora[137],Discontinued from Fedora 30 ,,,Discontinued from Fedora 9 [139],Discontinued from Fedora 17 ,,,Inactive from Fedora 12[140],,In progress,Inactive from Fedora 13 [141],,,,,,In progress[142]
+Finnix,,,,,,,,,,,,,,,,,
+Gentoo[143],,,,,,,,,,,,,,,,,Test release[148]
+gNewSense,,,,,,,,,,,,,,,,,
+Guix System[149],,,,,,,,,,,,,,,,,In progress[150]
+Hyperbola GNU/Linux-libre,,,,,,In progress[151],,,,,,,,,,,In progress[152]
+Kali Linux,,,,,,,,,,,,,,,,,
+LibreCMC,,,,,,,,,,,,,,,,,
+Manjaro Linux,,,,,,,,,,,,,,,,,
+MEPIS,,,,,,,,,,,,,,,,,
+Musix GNU+Linux,,,,,,,,,,,,,,,,,
+OpenELEC,,,,,,,,,,,,,,,,,
+openSUSE Leap,,,v7 64,,,ppc64le,,,,,,,,,,,
+openSUSE Tumbleweed,,,v6 v7 64,,,,,,,,,,,,,,RV64G
+OpenWrt[155],,,,,,,,,,,,,,,,,
+Oracle Linux[156],,,,Discontinued 5[157],,,,,,,,,,,,,
+Parabola GNU/Linux-libre,,,"Yes, ARMv7[158][159]",,,Test release[160],,,,Discontinued[161],Discontinued[161],,,,,,Test release[162]
+Red Flag Linux,Discontinued 8.0[163],Discontinued 8.0[163],,Discontinued 3[164],,Discontinued 3[164],,,,,,,,,,,
+Red Hat Linux[165],Discontinued 9.0,,,Discontinued 7.1-7.2,Test release 5.1[166],,Discontinued 4.0-4.2 5.1-6.2,Test release 5.1[166],,,Test release 5.1[166],,Discontinued 7.2,,Discontinued 2.1-7.1,Test release 5.1[166],
+Red Hat Enterprise Linux[167],Discontinued 2.1-6[168],,,Discontinued 2.1-5[170],,,,,,,,,Discontinued 3-4[171],,,,
+Sabayon Linux,Discontinued,,,,,,,,,,,,,,,,
+Scientific Linux,,,,Discontinued 3-4,,,,,,,,,,,,,
+SHR,,,,,,,,,,,,,,,,,
+Slackware,,,,,,,Discontinued ?[172],,,,,,Discontinued ?[173],Discontinued ?[173],Discontinued 8.1[174],,
+Solus,,,,,,,,,,,,,,,,,
+Source Mage GNU/Linux,,,,,,,,,,,,,,,,,
+SUSE Linux Enterprise Server[175],,,AArch64 only[176],,,,,,,,,,,,,,
+Trisquel GNU/Linux,,,,,,,,,,,,,,,,,
+TurnKey GNU/Linux,Selected ISOs available,,No - but under development by community,,,,,,,,,,,,,,
+Ubuntu/Kubuntu/Xubuntu/Lubuntu,Discontinued from Ubuntu 20.04 ,,",,,,,,,,,,,"Ubuntu only, 16.04+[177]",,,
+Ututo,,,,,,,,,,In progress,,,,,,,
+Void Linux,,,,,,,,,,,,,,,,,
+XBMCbuntu,,,,,,,,,,,,,,,,,
+Yellow Dog Linux,,,,,,,,,,,,,,,,,
+Distribution,x86,x86-64,arm,ia64,ppc,ppc64,sparc32,sparc64,hppa,loongson,mips,sh,s390,s390x,alpha,m68k,riscv

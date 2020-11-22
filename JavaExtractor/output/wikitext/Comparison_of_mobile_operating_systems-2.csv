@@ -1,0 +1,25 @@
+Feature,Android,iOS,Tizen,Sailfish OS,Ubuntu Touch
+Default web browser/engine,Blink,WebKit,WebKit,Gecko[124],Qt WebEngine (based on Blink)
+Major web browser available,"Chrome for Android, Opera, Firefox, Microsoft Edge","Safari, Chrome for iOS, Opera Touch, Firefox, Microsoft Edge",Tizen Browser (Based on UC Browser),"Sailfish Browser (Firefox), Webcat (WebKit), Web Pirate (WebKit), others via Android (Firefox, Chrome, Opera)",Morph Browser
+Browser extensions,,8+[127],,,
+Browser direct Internet connection (increased resilience to outages),,,,?,?
+Browser undo close tab,Google Chrome for Android[128],8+[129],,,
+Browser keeps windows open on shutdown or crash,2.3+ Google Chrome[130] but not on the deprecated AOSP browser[131],,,,
+Browser keeps windows open when cleaning cookies,,3rd party software[132],?,,
+Browser search engine options,Many[133],"Bing, Google, Yahoo! Search, DuckDuckGo","Bing, Google, Yahoo! Search","Bing, Google, Yahoo, Yandex. Baidu, DuckDuckGo, StartPage, Searx, ixquick, Swisscows, Qwant, Seznam, Hulbee via openrepos[134]","Baidu, Bing, DuckDuckGo, Ecosia, Google, lilo, Peekier, Qwant, Wikipedia, Yahoo[135]"
+Browser find on page,1.5+[136],,,1.1.2+[138],
+Browser–email save images,,,?,,
+Browser–email save PDFs,,,,,
+Browser save audio/video,"Yes, but only links, not embedded media",13+;[140] 5+: 3rd party software[141],,,
+Browser save page,",6+: Offline Reading List;[143] 3rd party software[144],,?,
+Browser save any file,",13+;[140] 5+: When an app that can handle/open the filetype is installed (excluding audio/video – requires 3rd party software[145]);[146],?,,
+Browser force enable zoom,",,?,?,?
+Browser text reflow[149],",5+: Only on pages with reader mode available[152][153] 3rd party browsers on prior versions[154],,,
+Browser Reader Mode,",5+[152][153],,,
+Browser open PDFs without storing,,,,,
+Browser file upload,2.2+[159],9+; 6–8: Limited,,1.0.7+[160],
+Browser form navigation,Next button[161],"Previous, Next, AutoFill, and Done buttons[162]",?,?,?
+Browser private browsing mode,3.0+ with AOSP browser[163] or with Chrome for Android,5+[164],,1.1.6+[165],
+Offline web apps,,,,?,
+HTTP Live Streaming,3+[170],3+[171],,,
+WebRTC,,11+[174],,,

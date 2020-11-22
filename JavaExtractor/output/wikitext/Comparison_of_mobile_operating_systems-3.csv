@@ -1,0 +1,11 @@
+Feature,Android,iOS,Tizen,Sailfish OS,Ubuntu Touch
+Non-English languages support,Partial[201],,Limited (Search is not diacritical mark-insensitive),,
+Underlining spell checker,2.3+[205][206],,,?,
+Built-in system-wide dictionary,Built into keyboard app. Available on every device.[208],5+[209],,,
+Autoexpanding text replacements,,5+[210],?,?,?
+Keyboard next word prediction,",8+[213],,,
+Keyboard cursor controller,Google Keyboard;[214][215],12+;[216] 9-11: Only on devices with 3D Touch;[217],,,
+Optical character recognition input method,,11+: Notes app;[219] 8+: Only for inputting credit card details[220],,,
+Third party input methods,,8+,?,?,?
+Gesture text input,4+[222],13+;[223] 8+: 3rd party software like SwiftKey,?,,
+Emoji support,4.4+[225],,?,2.2.0+[227] 3rd party software[228],

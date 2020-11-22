@@ -1,0 +1,16 @@
+Feature,Android,iOS,Tizen,Sailfish OS,Ubuntu Touch
+Multitasking,,7+;[291] 4–6: Limited[292],2+[109],,
+Quick app switching,7+[293],9+: via 3D Touch;[294] 5+: only on iPad[295],,,
+Document-centric multitasking,5+[296],13+: can open different views of same app side by side[297],,,
+Split-screen app usage,"7+, some manufacturers earlier[298]",9+: only on iPad with 2 GB RAM or more[299],,,Tablet-only
+Desktop interactive widgets,,10+: App icons via 3D Touch and/or dedicated widget screen[302],,,
+Lock screen widgets,,"Media player, voicemail, camera;[305] 5+: Notifications; 7+: Control Center 8+: Interactive Notifications[306] 10+: Full widgets[302]","Media player; Notifications (SMS, call)",,
+Notification view widgets,4.1+: Google Now and possible with 3rd party apps,8+,,,
+Quick settings toggles,2+[307],7+[308],,Via the Patchmanager app[309],
+Search multiple internal apps at once,,,,,
+Settings search,5+ or 3rd party software like LineageOS[311],9+[312],,,
+Search all fields of internal objects,Only search Contacts name field but not any other field[313],6+[314],Only searches contacts by name,?,
+Core apps missing search,Calendar[315] (available since 3+ and HTC Sense),Bookmarks[316],?,?,?
+Phone number links to dialer,"Available in stock Android, but not all devices enable it.[317]",,"Yes, but not in browser",,
+Addresses links to maps,"In Contacts, but not in Calendar[318] nor in Gmail[319]",,?,,?
+Dates links to calendar,,,,,?
