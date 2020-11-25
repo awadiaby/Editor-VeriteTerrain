@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-24T11:47:21.446536800Z</date>
+  <millis>1606218441446</millis>
+  <nanos>536800</nanos>
+  <sequence>67</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>INFO</level>
+  <class>extracteur_java.wikiMainhtml</class>
+  <method>extracteurenmarche</method>
+  <thread>17</thread>
+  <message>entering of the function which find tables by criteria</message>
+</record>
+<record>
+  <date>2020-11-24T11:47:21.447541300Z</date>
+  <millis>1606218441447</millis>
+  <nanos>541300</nanos>
+  <sequence>68</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>INFO</level>
+  <class>extracteur_java.wikiMainhtml</class>
+  <method>extracteurenmarche</method>
+  <thread>17</thread>
+  <message>Loading..........</message>
+</record>
+<record>
+  <date>2020-11-24T11:47:21.449536Z</date>
+  <millis>1606218441449</millis>
+  <nanos>536000</nanos>
+  <sequence>69</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>INFO</level>
+  <class>extracteur_java.wikiMainhtml</class>
+  <method>extracteurenmarche</method>
+  <thread>17</thread>
+  <message>end of searching table by criteria</message>
+</record>
+<record>
+  <date>2020-11-24T11:47:21.596248400Z</date>
+  <millis>1606218441596</millis>
+  <nanos>248400</nanos>
+  <sequence>70</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>FINER</level>
+  <class>extracteur_java.wikiMainhtml</class>
+  <method>getListofUrls</method>
+  <thread>17</thread>
+  <message>RETURN [extracteur_java.UrlMatrix@6e052c8d]</message>
+</record>
+<record>
+  <date>2020-11-24T11:47:21.597251Z</date>
+  <millis>1606218441597</millis>
+  <nanos>251000</nanos>
+  <sequence>71</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>INFO</level>
+  <class>extracteur_java.wikiMainhtml</class>
+  <method>extracteurenmarche</method>
+  <thread>17</thread>
+  <message>Extracting via html...</message>
+</record>
