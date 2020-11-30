@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2020-11-25T10:21:49.861278400Z</date>
-  <millis>1606299709861</millis>
-  <nanos>278400</nanos>
+  <date>2020-11-30T20:11:52.830395700Z</date>
+  <millis>1606767112830</millis>
+  <nanos>395700</nanos>
   <sequence>1</sequence>
   <logger>wikiMainhtml.class</logger>
   <level>INFO</level>
@@ -14,9 +14,9 @@
   <message>entering of the function which find tables by criteria</message>
 </record>
 <record>
-  <date>2020-11-25T10:21:49.875278700Z</date>
-  <millis>1606299709875</millis>
-  <nanos>278700</nanos>
+  <date>2020-11-30T20:11:52.852363300Z</date>
+  <millis>1606767112852</millis>
+  <nanos>363300</nanos>
   <sequence>2</sequence>
   <logger>wikiMainhtml.class</logger>
   <level>INFO</level>
@@ -26,9 +26,9 @@
   <message>Loading..........</message>
 </record>
 <record>
-  <date>2020-11-25T10:21:49.877256700Z</date>
-  <millis>1606299709877</millis>
-  <nanos>256700</nanos>
+  <date>2020-11-30T20:11:52.853369200Z</date>
+  <millis>1606767112853</millis>
+  <nanos>369200</nanos>
   <sequence>3</sequence>
   <logger>wikiMainhtml.class</logger>
   <level>INFO</level>
@@ -38,21 +38,21 @@
   <message>end of searching table by criteria</message>
 </record>
 <record>
-  <date>2020-11-25T10:21:51.428450400Z</date>
-  <millis>1606299711428</millis>
-  <nanos>450400</nanos>
+  <date>2020-11-30T20:11:55.114053300Z</date>
+  <millis>1606767115114</millis>
+  <nanos>53300</nanos>
   <sequence>4</sequence>
   <logger>wikiMainhtml.class</logger>
   <level>FINER</level>
   <class>extracteur_java.wikiMainhtml</class>
   <method>getListofUrls</method>
   <thread>17</thread>
-  <message>RETURN [extracteur_java.UrlMatrix@55d84c6c]</message>
+  <message>RETURN [extracteur_java.UrlMatrix@4b2b5811]</message>
 </record>
 <record>
-  <date>2020-11-25T10:21:51.434450900Z</date>
-  <millis>1606299711434</millis>
-  <nanos>450900</nanos>
+  <date>2020-11-30T20:11:55.115927700Z</date>
+  <millis>1606767115115</millis>
+  <nanos>927700</nanos>
   <sequence>5</sequence>
   <logger>wikiMainhtml.class</logger>
   <level>INFO</level>
@@ -61,3 +61,4 @@
   <thread>17</thread>
   <message>Extracting via html...</message>
 </record>
+</log>
