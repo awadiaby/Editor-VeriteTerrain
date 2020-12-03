@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-22T15:17:19.297751Z</date>
+  <millis>1606058239297</millis>
+  <nanos>751000</nanos>
+  <sequence>1</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>INFO</level>
+  <class>fr.istic.pdl1819_grp5.wikiMainhtml</class>
+  <method>extracteurenmarche</method>
+  <thread>1</thread>
+  <message>entering of the function which find tables by criteria</message>
+</record>
+<record>
+  <date>2020-11-22T15:17:19.330731200Z</date>
+  <millis>1606058239330</millis>
+  <nanos>731200</nanos>
+  <sequence>2</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>INFO</level>
+  <class>fr.istic.pdl1819_grp5.wikiMainhtml</class>
+  <method>extracteurenmarche</method>
+  <thread>1</thread>
+  <message>Loading..........</message>
+</record>
+<record>
+  <date>2020-11-22T15:18:30.279825300Z</date>
+  <millis>1606058310279</millis>
+  <nanos>825300</nanos>
+  <sequence>3</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>INFO</level>
+  <class>fr.istic.pdl1819_grp5.wikiMainhtml</class>
+  <method>extracteurenmarche</method>
+  <thread>1</thread>
+  <message>end of searching table by criteria</message>
+</record>
+<record>
+  <date>2020-11-22T15:18:30.282822400Z</date>
+  <millis>1606058310282</millis>
+  <nanos>822400</nanos>
+  <sequence>4</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>FINER</level>
+  <class>fr.istic.pdl1819_grp5.wikiMain</class>
+  <method>getListofUrls</method>
+  <thread>1</thread>
+  <message>ENTRY inputdata\wikiurls.txt</message>
+</record>
+<record>
+  <date>2020-11-22T15:19:13.473827100Z</date>
+  <millis>1606058353473</millis>
+  <nanos>827100</nanos>
+  <sequence>5</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>FINER</level>
+  <class>fr.istic.pdl1819_grp5.wikiMain</class>
+  <method>getListofUrls</method>
+  <thread>1</thread>
+  <message>RETURN [fr.istic.pdl1819_grp5.UrlMatrix@6cc558c6, fr.istic.pdl1819_grp5.UrlMatrix@1e461e41, fr.istic.pdl1819_grp5.UrlMatrix@7ae42ce3, fr.istic.pdl1819_grp5.UrlMatrix@7d898981, fr.istic.pdl1819_grp5.UrlMatrix@732d0d24, fr.istic.pdl1819_grp5.UrlMatrix@6ce86ce1, fr.istic.pdl1819_grp5.UrlMatrix@2ce6c6ec, fr.istic.pdl1819_grp5.UrlMatrix@d278d2b, fr.istic.pdl1819_grp5.UrlMatrix@7fcf2fc1, fr.istic.pdl1819_grp5.UrlMatrix@2ef14fe, fr.istic.pdl1819_grp5.UrlMatrix@68034211, fr.istic.pdl1819_grp5.UrlMatrix@6f44a157, fr.istic.pdl1819_grp5.UrlMatrix@4066c471, fr.istic.pdl1819_grp5.UrlMatrix@632ceb35, fr.istic.pdl1819_grp5.UrlMatrix@71e693fa, fr.istic.pdl1819_grp5.UrlMatrix@3eb77ea8, fr.istic.pdl1819_grp5.UrlMatrix@4ddbbdf8, fr.istic.pdl1819_grp5.UrlMatrix@398dada8, fr.istic.pdl1819_grp5.UrlMatrix@3d9c13b5, fr.istic.pdl1819_grp5.UrlMatrix@4b23c30a, fr.istic.pdl1819_grp5.UrlMatrix@32c726ee, fr.istic.pdl1819_grp5.UrlMatrix@4eaf3684, fr.istic.pdl1819_grp5.UrlMatrix@401f7633, fr.istic.pdl1819_grp5.UrlMatrix@45d2ade3, fr.istic.pdl1819_grp5.UrlMatrix@4ce1d6d0, fr.istic.pdl1819_grp5.UrlMatrix@73d983ea, fr.istic.pdl1819_grp5.UrlMatrix@2b76ff4e, fr.istic.pdl1819_grp5.UrlMatrix@3bd323e9, fr.istic.pdl1819_grp5.UrlMatrix@b83a9be, fr.istic.pdl1819_grp5.UrlMatrix@3eb81efb, fr.istic.pdl1819_grp5.UrlMatrix@35432107, fr.istic.pdl1819_grp5.UrlMatrix@57c03d88, fr.istic.pdl1819_grp5.UrlMatrix@21337f7b, fr.istic.pdl1819_grp5.UrlMatrix@6af9fcb2, fr.istic.pdl1819_grp5.UrlMatrix@363a52f, fr.istic.pdl1819_grp5.UrlMatrix@11f0a5a1, fr.istic.pdl1819_grp5.UrlMatrix@61fe30, fr.istic.pdl1819_grp5.UrlMatrix@6ccdb29f, fr.istic.pdl1819_grp5.UrlMatrix@14fa86ae, fr.istic.pdl1819_grp5.UrlMatrix@1b8a29df, fr.istic.pdl1819_grp5.UrlMatrix@27d5a580, fr.istic.pdl1819_grp5.UrlMatrix@30e868be, fr.istic.pdl1819_grp5.UrlMatrix@648c94da, fr.istic.pdl1819_grp5.UrlMatrix@7674b62c, fr.istic.pdl1819_grp5.UrlMatrix@2c07545f, fr.istic.pdl1819_grp5.UrlMatrix@4416d64f, fr.istic.pdl1819_grp5.UrlMatrix@39655d3e, fr.istic.pdl1819_grp5.UrlMatrix@5b6ec132, fr.istic.pdl1819_grp5.UrlMatrix@68df9280, fr.istic.pdl1819_grp5.UrlMatrix@41709512, fr.istic.pdl1819_grp5.UrlMatrix@58326051, fr.istic.pdl1819_grp5.UrlMatrix@2e48362c, fr.istic.pdl1819_grp5.UrlMatrix@babafc2, fr.istic.pdl1819_grp5.UrlMatrix@a87f8ec, fr.istic.pdl1819_grp5.UrlMatrix@1187c9e8, fr.istic.pdl1819_grp5.UrlMatrix@68702e03, fr.istic.pdl1819_grp5.UrlMatrix@49ff7d8c, fr.istic.pdl1819_grp5.UrlMatrix@740d2e78, fr.istic.pdl1819_grp5.UrlMatrix@5be46f9d, fr.istic.pdl1819_grp5.UrlMatrix@1e44b638, fr.istic.pdl1819_grp5.UrlMatrix@301eda63, fr.istic.pdl1819_grp5.UrlMatrix@7803bfd, fr.istic.pdl1819_grp5.UrlMatrix@25f4878b, fr.istic.pdl1819_grp5.UrlMatrix@2fd953a6, fr.istic.pdl1819_grp5.UrlMatrix@662706a7, fr.istic.pdl1819_grp5.UrlMatrix@1838ccb8, fr.istic.pdl1819_grp5.UrlMatrix@34c01041, fr.istic.pdl1819_grp5.UrlMatrix@5ce8d869, fr.istic.pdl1819_grp5.UrlMatrix@6aa61224, fr.istic.pdl1819_grp5.UrlMatrix@5be49b60, fr.istic.pdl1819_grp5.UrlMatrix@2421cc4, fr.istic.pdl1819_grp5.UrlMatrix@7c8c9a05, fr.istic.pdl1819_grp5.UrlMatrix@6ed3f258, fr.istic.pdl1819_grp5.UrlMatrix@3daf7722, fr.istic.pdl1819_grp5.UrlMatrix@68b32e3e, fr.istic.pdl1819_grp5.UrlMatrix@64bce832, fr.istic.pdl1819_grp5.UrlMatrix@1afdd473, fr.istic.pdl1819_grp5.UrlMatrix@1339e7aa, fr.istic.pdl1819_grp5.UrlMatrix@39d9314d, fr.istic.pdl1819_grp5.UrlMatrix@5dcb4f5f, fr.istic.pdl1819_grp5.UrlMatrix@50d13246, fr.istic.pdl1819_grp5.UrlMatrix@6c4980d3, fr.istic.pdl1819_grp5.UrlMatrix@31dadd46, fr.istic.pdl1819_grp5.UrlMatrix@54504ecd, fr.istic.pdl1819_grp5.UrlMatrix@3e6104fc, fr.istic.pdl1819_grp5.UrlMatrix@5082d622, fr.istic.pdl1819_grp5.UrlMatrix@7e4204e2, fr.istic.pdl1819_grp5.UrlMatrix@82ea68c, fr.istic.pdl1819_grp5.UrlMatrix@67b9b51a, fr.istic.pdl1819_grp5.UrlMatrix@1fd14d74, fr.istic.pdl1819_grp5.UrlMatrix@71329995, fr.istic.pdl1819_grp5.UrlMatrix@12a94400, fr.istic.pdl1819_grp5.UrlMatrix@4ebff610, fr.istic.pdl1819_grp5.UrlMatrix@3403e2ac, fr.istic.pdl1819_grp5.UrlMatrix@be68757, fr.istic.pdl1819_grp5.UrlMatrix@352c1b98, fr.istic.pdl1819_grp5.UrlMatrix@6e4566f1, fr.istic.pdl1819_grp5.UrlMatrix@25aca718, fr.istic.pdl1819_grp5.UrlMatrix@1921ad94, fr.istic.pdl1819_grp5.UrlMatrix@48e92c5c, fr.istic.pdl1819_grp5.UrlMatrix@4331d187, fr.istic.pdl1819_grp5.UrlMatrix@33308786, fr.istic.pdl1819_grp5.UrlMatrix@125290e5, fr.istic.pdl1819_grp5.UrlMatrix@561868a0, fr.istic.pdl1819_grp5.UrlMatrix@225129c, fr.istic.pdl1819_grp5.UrlMatrix@7a1a14a4, fr.istic.pdl1819_grp5.UrlMatrix@3cdf2c61, fr.istic.pdl1819_grp5.UrlMatrix@27216cd, fr.istic.pdl1819_grp5.UrlMatrix@64c63c79, fr.istic.pdl1819_grp5.UrlMatrix@5b3f61ff, fr.istic.pdl1819_grp5.UrlMatrix@57576994, fr.istic.pdl1819_grp5.UrlMatrix@79dc5318, fr.istic.pdl1819_grp5.UrlMatrix@6dab9b6d, fr.istic.pdl1819_grp5.UrlMatrix@341814d3, fr.istic.pdl1819_grp5.UrlMatrix@55493582, fr.istic.pdl1819_grp5.UrlMatrix@12d2ce03, fr.istic.pdl1819_grp5.UrlMatrix@9573584, fr.istic.pdl1819_grp5.UrlMatrix@45312be2, fr.istic.pdl1819_grp5.UrlMatrix@481ba2cf, fr.istic.pdl1819_grp5.UrlMatrix@7582ff54, fr.istic.pdl1819_grp5.UrlMatrix@7749bf93, fr.istic.pdl1819_grp5.UrlMatrix@6f7923a5, fr.istic.pdl1819_grp5.UrlMatrix@7776ab, fr.istic.pdl1819_grp5.UrlMatrix@4ff8d125, fr.istic.pdl1819_grp5.UrlMatrix@3abada5a, fr.istic.pdl1819_grp5.UrlMatrix@7c214cc0, fr.istic.pdl1819_grp5.UrlMatrix@1ab06251, fr.istic.pdl1819_grp5.UrlMatrix@16ce702d, fr.istic.pdl1819_grp5.UrlMatrix@484094a5, fr.istic.pdl1819_grp5.UrlMatrix@68f4865, fr.istic.pdl1819_grp5.UrlMatrix@6057aebb, fr.istic.pdl1819_grp5.UrlMatrix@ae3540e, fr.istic.pdl1819_grp5.UrlMatrix@53fd0d10, fr.istic.pdl1819_grp5.UrlMatrix@3697186, fr.istic.pdl1819_grp5.UrlMatrix@6d7fc27, fr.istic.pdl1819_grp5.UrlMatrix@413f69cc, fr.istic.pdl1819_grp5.UrlMatrix@4196c360, fr.istic.pdl1819_grp5.UrlMatrix@63787180, fr.istic.pdl1819_grp5.UrlMatrix@22356acd, fr.istic.pdl1819_grp5.UrlMatrix@2a3888c1, fr.istic.pdl1819_grp5.UrlMatrix@21ba0741, fr.istic.pdl1819_grp5.UrlMatrix@6eb2384f, fr.istic.pdl1819_grp5.UrlMatrix@40db2a24, fr.istic.pdl1819_grp5.UrlMatrix@6f19ac19, fr.istic.pdl1819_grp5.UrlMatrix@181e731e, fr.istic.pdl1819_grp5.UrlMatrix@6b88ca8c, fr.istic.pdl1819_grp5.UrlMatrix@545b995e, fr.istic.pdl1819_grp5.UrlMatrix@67d18ed7, fr.istic.pdl1819_grp5.UrlMatrix@5e403b4a, fr.istic.pdl1819_grp5.UrlMatrix@5454d35e, fr.istic.pdl1819_grp5.UrlMatrix@418c5a9c, fr.istic.pdl1819_grp5.UrlMatrix@1fa1cab1, fr.istic.pdl1819_grp5.UrlMatrix@63fbfaeb, fr.istic.pdl1819_grp5.UrlMatrix@4b40f651, fr.istic.pdl1819_grp5.UrlMatrix@2f62ea70, fr.istic.pdl1819_grp5.UrlMatrix@2812b107, fr.istic.pdl1819_grp5.UrlMatrix@49c66ade, fr.istic.pdl1819_grp5.UrlMatrix@7c51f34b, fr.istic.pdl1819_grp5.UrlMatrix@19c65cdc, fr.istic.pdl1819_grp5.UrlMatrix@59a008ba, fr.istic.pdl1819_grp5.UrlMatrix@6304101a, fr.istic.pdl1819_grp5.UrlMatrix@5505ae1a, fr.istic.pdl1819_grp5.UrlMatrix@3148f668, fr.istic.pdl1819_grp5.UrlMatrix@539d019, fr.istic.pdl1819_grp5.UrlMatrix@63611043, fr.istic.pdl1819_grp5.UrlMatrix@7d3d101b, fr.istic.pdl1819_grp5.UrlMatrix@41005828, fr.istic.pdl1819_grp5.UrlMatrix@7164ca4c, fr.istic.pdl1819_grp5.UrlMatrix@4ae9cfc1, fr.istic.pdl1819_grp5.UrlMatrix@7fbdb894, fr.istic.pdl1819_grp5.UrlMatrix@3406472c, fr.istic.pdl1819_grp5.UrlMatrix@3af0a9da, fr.istic.pdl1819_grp5.UrlMatrix@b2c5e07, fr.istic.pdl1819_grp5.UrlMatrix@5b367418, fr.istic.pdl1819_grp5.UrlMatrix@5a2d131d, fr.istic.pdl1819_grp5.UrlMatrix@291f18, fr.istic.pdl1819_grp5.UrlMatrix@598bd2ba, fr.istic.pdl1819_grp5.UrlMatrix@6337c201, fr.istic.pdl1819_grp5.UrlMatrix@6f3c660a, fr.istic.pdl1819_grp5.UrlMatrix@44d52de2, fr.istic.pdl1819_grp5.UrlMatrix@2796aeae, fr.istic.pdl1819_grp5.UrlMatrix@d62fe5b, fr.istic.pdl1819_grp5.UrlMatrix@6d07a63d, fr.istic.pdl1819_grp5.UrlMatrix@68d279ec, fr.istic.pdl1819_grp5.UrlMatrix@676cf48, fr.istic.pdl1819_grp5.UrlMatrix@f107c50, fr.istic.pdl1819_grp5.UrlMatrix@528c868, fr.istic.pdl1819_grp5.UrlMatrix@53251a66, fr.istic.pdl1819_grp5.UrlMatrix@177bea38, fr.istic.pdl1819_grp5.UrlMatrix@3b7d3a38, fr.istic.pdl1819_grp5.UrlMatrix@3e6f3f28, fr.istic.pdl1819_grp5.UrlMatrix@3f9342d4, fr.istic.pdl1819_grp5.UrlMatrix@2dcd168a, fr.istic.pdl1819_grp5.UrlMatrix@5965be2d, fr.istic.pdl1819_grp5.UrlMatrix@1c33c17b, fr.istic.pdl1819_grp5.UrlMatrix@19e4fcac, fr.istic.pdl1819_grp5.UrlMatrix@e383572, fr.istic.pdl1819_grp5.UrlMatrix@e70f13a, fr.istic.pdl1819_grp5.UrlMatrix@31920ade, fr.istic.pdl1819_grp5.UrlMatrix@554e218, fr.istic.pdl1819_grp5.UrlMatrix@5b7a8434, fr.istic.pdl1819_grp5.UrlMatrix@6ee4d9ab, fr.istic.pdl1819_grp5.UrlMatrix@2f67b837, fr.istic.pdl1819_grp5.UrlMatrix@1e097d59, fr.istic.pdl1819_grp5.UrlMatrix@2474f125, fr.istic.pdl1819_grp5.UrlMatrix@106cc338, fr.istic.pdl1819_grp5.UrlMatrix@68dc098b, fr.istic.pdl1819_grp5.UrlMatrix@7e6ef134, fr.istic.pdl1819_grp5.UrlMatrix@5ddcc487, fr.istic.pdl1819_grp5.UrlMatrix@62010f5c, fr.istic.pdl1819_grp5.UrlMatrix@7a362b6b, fr.istic.pdl1819_grp5.UrlMatrix@302f7971, fr.istic.pdl1819_grp5.UrlMatrix@4e31276e, fr.istic.pdl1819_grp5.UrlMatrix@172b013, fr.istic.pdl1819_grp5.UrlMatrix@42530531, fr.istic.pdl1819_grp5.UrlMatrix@ca30bc1, fr.istic.pdl1819_grp5.UrlMatrix@58be6e8, fr.istic.pdl1819_grp5.UrlMatrix@26ceffa8, fr.istic.pdl1819_grp5.UrlMatrix@2c4d1ac, fr.istic.pdl1819_grp5.UrlMatrix@1603cd68, fr.istic.pdl1819_grp5.UrlMatrix@7ceb3185, fr.istic.pdl1819_grp5.UrlMatrix@4b213651, fr.istic.pdl1819_grp5.UrlMatrix@3561c410, fr.istic.pdl1819_grp5.UrlMatrix@147a5d08, fr.istic.pdl1819_grp5.UrlMatrix@1800a575, fr.istic.pdl1819_grp5.UrlMatrix@524f3b3a, fr.istic.pdl1819_grp5.UrlMatrix@35399441, fr.istic.pdl1819_grp5.UrlMatrix@5026735c, fr.istic.pdl1819_grp5.UrlMatrix@12f9af83, fr.istic.pdl1819_grp5.UrlMatrix@335b5620, fr.istic.pdl1819_grp5.UrlMatrix@3b74ac8, fr.istic.pdl1819_grp5.UrlMatrix@3fc9504b, fr.istic.pdl1819_grp5.UrlMatrix@53de625d, fr.istic.pdl1819_grp5.UrlMatrix@2049a9c1, fr.istic.pdl1819_grp5.UrlMatrix@65a15628, fr.istic.pdl1819_grp5.UrlMatrix@5c2375a9, fr.istic.pdl1819_grp5.UrlMatrix@6581dc0a, fr.istic.pdl1819_grp5.UrlMatrix@531f4093, fr.istic.pdl1819_grp5.UrlMatrix@135606db, fr.istic.pdl1819_grp5.UrlMatrix@7ef27d7f, fr.istic.pdl1819_grp5.UrlMatrix@68f1b17f, fr.istic.pdl1819_grp5.UrlMatrix@6bffbc6d, fr.istic.pdl1819_grp5.UrlMatrix@56928307, fr.istic.pdl1819_grp5.UrlMatrix@1b75c2e3, fr.istic.pdl1819_grp5.UrlMatrix@7cbd9d24, fr.istic.pdl1819_grp5.UrlMatrix@54eb2b70, fr.istic.pdl1819_grp5.UrlMatrix@4716be8b, fr.istic.pdl1819_grp5.UrlMatrix@3fed2870, fr.istic.pdl1819_grp5.UrlMatrix@7efaad5a, fr.istic.pdl1819_grp5.UrlMatrix@7ca20101, fr.istic.pdl1819_grp5.UrlMatrix@c94fd30, fr.istic.pdl1819_grp5.UrlMatrix@2f16c6b3, fr.istic.pdl1819_grp5.UrlMatrix@344f4dea, fr.istic.pdl1819_grp5.UrlMatrix@36b4091c, fr.istic.pdl1819_grp5.UrlMatrix@6c2c1385, fr.istic.pdl1819_grp5.UrlMatrix@2d778add, fr.istic.pdl1819_grp5.UrlMatrix@14bee915, fr.istic.pdl1819_grp5.UrlMatrix@345f69f3, fr.istic.pdl1819_grp5.UrlMatrix@7922d892, fr.istic.pdl1819_grp5.UrlMatrix@61544ae6, fr.istic.pdl1819_grp5.UrlMatrix@14008db3, fr.istic.pdl1819_grp5.UrlMatrix@4032d386, fr.istic.pdl1819_grp5.UrlMatrix@7aaca91a, fr.istic.pdl1819_grp5.UrlMatrix@3b96c42e, fr.istic.pdl1819_grp5.UrlMatrix@3ad2e17, fr.istic.pdl1819_grp5.UrlMatrix@16b2bb0c, fr.istic.pdl1819_grp5.UrlMatrix@5ef5c734, fr.istic.pdl1819_grp5.UrlMatrix@51549490, fr.istic.pdl1819_grp5.UrlMatrix@30af5b6b, fr.istic.pdl1819_grp5.UrlMatrix@38aa816f, fr.istic.pdl1819_grp5.UrlMatrix@59cba5a, fr.istic.pdl1819_grp5.UrlMatrix@6bca7e0d, fr.istic.pdl1819_grp5.UrlMatrix@10a9d961, fr.istic.pdl1819_grp5.UrlMatrix@c7045b9, fr.istic.pdl1819_grp5.UrlMatrix@74589991, fr.istic.pdl1819_grp5.UrlMatrix@3e74829, fr.istic.pdl1819_grp5.UrlMatrix@72437d8d, fr.istic.pdl1819_grp5.UrlMatrix@6c372fe6, fr.istic.pdl1819_grp5.UrlMatrix@1f3f02ee, fr.istic.pdl1819_grp5.UrlMatrix@573906eb, fr.istic.pdl1819_grp5.UrlMatrix@3688eb5b, fr.istic.pdl1819_grp5.UrlMatrix@3d1848cc, fr.istic.pdl1819_grp5.UrlMatrix@4426bff1, fr.istic.pdl1819_grp5.UrlMatrix@6155d082, fr.istic.pdl1819_grp5.UrlMatrix@78aa1f72, fr.istic.pdl1819_grp5.UrlMatrix@609db546, fr.istic.pdl1819_grp5.UrlMatrix@5cdec700, fr.istic.pdl1819_grp5.UrlMatrix@32a68f4f, fr.istic.pdl1819_grp5.UrlMatrix@5bf8fa12, fr.istic.pdl1819_grp5.UrlMatrix@6436a7db, fr.istic.pdl1819_grp5.UrlMatrix@5a9f4771, fr.istic.pdl1819_grp5.UrlMatrix@46271dd6, fr.istic.pdl1819_grp5.UrlMatrix@141e5bef, fr.istic.pdl1819_grp5.UrlMatrix@332796d3, fr.istic.pdl1819_grp5.UrlMatrix@2a225dd7, fr.istic.pdl1819_grp5.UrlMatrix@14f9390f, fr.istic.pdl1819_grp5.UrlMatrix@78d6692f, fr.istic.pdl1819_grp5.UrlMatrix@dbd8e44, fr.istic.pdl1819_grp5.UrlMatrix@3f57bcad, fr.istic.pdl1819_grp5.UrlMatrix@2766ca9d, fr.istic.pdl1819_grp5.UrlMatrix@4b79ac84, fr.istic.pdl1819_grp5.UrlMatrix@132e0cc, fr.istic.pdl1819_grp5.UrlMatrix@934b6cb, fr.istic.pdl1819_grp5.UrlMatrix@75d2da2d]</message>
+</record>
+<record>
+  <date>2020-11-22T15:19:13.479810400Z</date>
+  <millis>1606058353479</millis>
+  <nanos>810400</nanos>
+  <sequence>6</sequence>
+  <logger>wikiMainhtml.class</logger>
+  <level>INFO</level>
+  <class>fr.istic.pdl1819_grp5.wikiMainhtml</class>
+  <method>extracteurenmarche</method>
+  <thread>1</thread>
+  <message>Extracting via html...</message>
+</record>
+</log>

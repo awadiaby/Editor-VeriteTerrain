@@ -1,0 +1,6 @@
+Feature,Android,iOS,Tizen,Sailfish OS,Ubuntu Touch
+Custom ringtones,,,,,
+Custom SMS/MMS tones,,5+[324],?,,
+Custom vibrate alert patterns,",5+[327][328],?,API available for 3rd party apps,
+Dismiss repeating alarm clock before trigger,4.4+[329],,,?,
+Tap to snooze[331],3rd party apps[332],,,?,
