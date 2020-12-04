@@ -107,8 +107,22 @@ public class Verite extends Application {
                 {
                     switch (comboBox.getValue()) {
                         case "Extracteur Python":
-                            typeExtractor = " ";
+                            typeExtractor = "html";
                             url.set(textField.getText());
+                               StringWriter writer = new StringWriter(); //ouput will be stored here
+
+                            ScriptEngineManager manager = new ScriptEngineManager();
+                            ScriptContext context = new SimpleScriptContext();
+
+                            context.setWriter(writer); //configures output redirection
+                            ScriptEngine engine = manager.getEngineByName("src/main/output/html");
+                            try {
+                                engine.eval(new FileReader("py/main.py"), context);
+                            } catch (ScriptException scriptException) {
+                                scriptException.printStackTrace();
+                            } catch (FileNotFoundException fileNotFoundException) {
+                                fileNotFoundException.printStackTrace();
+                            }
                             break;
                         case "Extracteur Java Html":
                             typeExtractor = "html";
