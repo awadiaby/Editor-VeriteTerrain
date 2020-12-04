@@ -5,7 +5,7 @@ from csv import reader
 OUTPUT_JAVA_HTML = 'JavaExtractor/output/html'
 OUTPUT_JAVA_WIKITEXT = 'JavaExtractor/output/wikitext'
 OUTPUT_PYTHON = 'PyExtractor/output/csv'
-OUTPUT_VERITE = 'src/verite'
+OUTPUT_VERITE = 'src/verites'
 
 
 ######################
