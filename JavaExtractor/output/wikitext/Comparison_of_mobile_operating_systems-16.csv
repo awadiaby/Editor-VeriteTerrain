@@ -1,0 +1,5 @@
+Feature,Android,iOS,Tizen,Sailfish OS,Ubuntu Touch
+Safe driving mode,,11+[229],?,?,?
+Turn-by-turn navigation,2+[230],6+[231],?,,
+Offline maps,",6+[233],?,,
+Alternative routes in maps,,5+[235][236],?,,

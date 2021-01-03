@@ -1,0 +1,24 @@
+Implementation,Block cipher with mode of operation,,,,,,,,,,Stream cipher,None
+,AES GCM [103],AES CCM [104],AES CBC,Camellia GCM [105],Camellia CBC [106],ARIA GCM [107],ARIA CBC [107],SEED CBC [108],3DES EDE CBC (insecure)[109],GOST 28147-89 CNT (proposed) [69][110],ChaCha20-Poly1305 [111],Null (insecure) [112]
+Botan,,Yes,Yes,,Yes,No,No,Disabled by default,Disabled by default,No,,Not implemented
+BoringSSL,,No,Yes,No,No,No,No,No,Yes,No,,
+cryptlib,,No,Yes,No,No,No,No,No,Yes,No,,Not implemented
+GnuTLS,,Yes[19],Yes,,Yes,No,No,No,Disabled by default[114],No,,Disabled by default
+JSSE,,No,Yes,No,No,No,No,No,Disabled by default[116],No[70],Yes (JDK 12+)[117],Disabled by default
+LibreSSL,,No,Yes,No,Yes[71],No,No,No[23],Yes,Yes[71],,Disabled by default
+MatrixSSL,,No,Yes,No,No,No,No,Yes,Disabled by default,No,,Disabled by default
+Mbed TLS,,Yes [119],Yes,,Yes,,Yes[120],No,Yes,No,,Disabled by default at compile time
+NSS,,No,Yes,No[123][124],Yes[125],No,No,Yes[126],Yes,No[73][74],,Disabled by default
+OpenSSL,,Disabled by default[32],Yes,No,Disabled by default[32],Disabled by default[129],No,Disabled by default[32],Disabled by default[32],Yes[75],,Disabled by default
+RSA BSAFE Micro-Edition Suite,,Yes,Yes,No,No,No,Yes,Yes,Lowest priority,No,,Disabled by default
+RSA BSAFE SSL-J,,Yes,Yes,No,No,No,No,No,Disabled by default,No,,Disabled by default
+SChannel XP/2003,,No,2003 only[130],No,No,No,No,No,Yes,No[76],,Disabled by default
+"SChannel Vista/2008, 2008R2, 2012",,No,Yes,No,No,No,No,No,Yes,No[76],,Disabled by default
+"SChannel 7, 8, 8.1/2012R2",Yes except ECDHE_RSA [78][79],No,Yes,No,No,No,No,No,Yes,No[76],,Disabled by default
+Schannel 10[131],,No,Yes,No,No,No,No,No,Yes,No[76],,Disabled by default
+Secure Transport OS X 10.6 - 10.10,,No,Yes,No,No,No,No,No,Yes,No,,Disabled by default
+Secure Transport OS X 10.11,,No,Yes,No,No,No,No,No,Yes,No,,Disabled by default
+wolfSSL,,Yes,Yes,No,Yes,No,No,No,Yes,No,,Disabled by default
+Erlang/OTP SSL application,,No,Yes,No,No,No,No,No, Disabled by default,No,Experimental,Disable by default
+Implementation,Block cipher with mode of operation,,,,,,,,,,Stream cipher,None
+,AES GCM [103],AES CCM [104],AES CBC,Camellia GCM [105],Camellia CBC [106],ARIA GCM [107],ARIA CBC [107],SEED CBC [108],3DES EDE CBC (insecure)[109],GOST 28147-89 CNT (proposed) [69][110],ChaCha20-Poly1305 [111],Null (insecure) [112]
